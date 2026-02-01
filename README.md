@@ -38,3 +38,19 @@ Overall, Internship Task-4 provides hands-on experience in performance and load 
 
 
 ## Tools and Technologies used
+
+- Gatling
+- Java / Scala (Gatling DSL)
+- Web Browser
+- IDE / Text Editor
+- Operating System (Windows/Linux)
+- Gatling HTML Reports
+- Load Testing
+- Stress Testing
+- Virtual User Simulation
+- Scenario-Based Testing
+- Ramp-Up Load Strategy
+- Performance Metrics Analysis
+
+# Test Scenario covered
+
