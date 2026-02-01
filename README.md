@@ -21,3 +21,20 @@ Overall, Internship Task-4 provides hands-on experience in performance and load 
 
 
 ## Objectives of the Task
+
+- To understand the concept of load testing and why it is important for web applications.
+- To learn how to use Gatling as a performance and load testing tool.
+- To simulate multiple virtual users accessing a web application at the same time.
+- To evaluate the performance of the application under heavy load conditions.
+- To measure key performance metrics such as:
+    1.Response time
+    2. Throughput
+    3.Request success and failure rates
+- To identify performance bottlenecks and system limitations.
+- To analyze how the application behaves during peak traffic.
+- To generate and study Gatling test reports for performance analysis.
+- To improve skills in performance testing and analysis.
+- To gain hands-on experience with real-world load testing scenarios.
+
+
+## Tools and Technologies used
