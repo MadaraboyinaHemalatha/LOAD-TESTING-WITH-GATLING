@@ -67,7 +67,7 @@ Overall, Internship Task-4 provides hands-on experience in performance and load 
 
 # Steps to execute the project
 
-Install Java (JDK) on the system
+- Install Java (JDK) on the system
 - Download and set up Gatling
 - Choose a web application to test
 - Identify required URLs and requests
@@ -77,3 +77,6 @@ Install Java (JDK) on the system
 - Monitor test execution and logs
 - Generate Gatling HTML report
 - Analyze performance results and document findings
+
+## Screenshots captures  
+
