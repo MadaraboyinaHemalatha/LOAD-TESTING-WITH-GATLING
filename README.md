@@ -39,44 +39,55 @@ Overall, Internship Task-4 provides hands-on experience in performance and load 
 
 ## Tools and Technologies used
 
-- Gatling
-- Java / Scala (Gatling DSL)
-- Web Browser
-- IDE / Text Editor
-- Operating System (Windows/Linux)
-- Gatling HTML Reports
-- Load Testing
-- Stress Testing
-- Virtual User Simulation
-- Scenario-Based Testing
-- Ramp-Up Load Strategy
-- Performance Metrics Analysis
+- Gatling.
+- Java / Scala (Gatling DSL).
+- Web Browser.
+- IDE / Text Editor.
+- Operating System (Windows/Linux).
+- Gatling HTML Reports.
+- Load Testing.
+- Stress Testing.
+- Virtual User Simulation.
+- Scenario-Based Testing.
+- Ramp-Up Load Strategy.
+- Performance Metrics Analysis.
 
 # Test Scenario covered
 
-- Accessing the application homepage under load
-- Multiple users accessing the application simultaneously
-- User login request performance (valid/invalid users)
-- Page navigation and browsing under load
-- API / HTTP request response time validation
-- Handling peak user load conditions
-- System behavior during ramp-up of users
-- Error rate and failed request monitoring
-- Server response time under heavy traffic
-- Stability of the application during continuous load
+- Accessing the application homepage under load.
+- Multiple users accessing the application simultaneously.
+- User login request performance (valid/invalid users).
+- Page navigation and browsing under load.
+- API / HTTP request response time validation.
+- Handling peak user load conditions.
+- System behavior during ramp-up of users.
+- Error rate and failed request monitoring.
+- Server response time under heavy traffic.
+- Stability of the application during continuous load.
 
 # Steps to execute the project
 
-- Install Java (JDK) on the system
-- Download and set up Gatling
-- Choose a web application to test
-- Identify required URLs and requests
-- Create a Gatling simulation script
-- Configure number of users and ramp-up time
-- Execute the Gatling test
-- Monitor test execution and logs
-- Generate Gatling HTML report
-- Analyze performance results and document findings
+- Install Java (JDK) on the system.
+- Download and set up Gatling.
+- Choose a web application to test.
+- Identify required URLs and requests.
+- Create a Gatling simulation script.
+- Configure number of users and ramp-up time.
+- Execute the Gatling test.
+- Monitor test execution and logs.
+- Generate Gatling HTML report.
+- Analyze performance results and document findings.
 
 ## Screenshots captures  
+
+- The screenshots show the Gatling performance test report generated after executing the load test.
+- The Global Summary displays overall test results including total requests, response time ranges, and failed requests.
+- The Response Time Range chart indicates that most requests failed or exceeded the expected response time under load.
+- The Number of Requests per Second graph shows how request traffic increased and decreased as users were ramped up and down.
+- The Number of Responses per Second graph highlights the system’s response behavior during the test execution.
+- The Active Users graph shows how virtual users were gradually added, maintained, and then reduced during the simulation.
+- The Response Time Distribution chart helps analyze how response times are spread across different ranges.
+- Overall, the screenshots demonstrate how the application behaves under simulated heavy load conditions and help identify performance issues.
+
+# Output
 
