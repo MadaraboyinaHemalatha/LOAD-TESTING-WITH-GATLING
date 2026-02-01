@@ -54,3 +54,16 @@ Overall, Internship Task-4 provides hands-on experience in performance and load 
 
 # Test Scenario covered
 
+- Accessing the application homepage under load
+- Multiple users accessing the application simultaneously
+- User login request performance (valid/invalid users)
+- Page navigation and browsing under load
+- API / HTTP request response time validation
+- Handling peak user load conditions
+- System behavior during ramp-up of users
+- Error rate and failed request monitoring
+- Server response time under heavy traffic
+- Stability of the application during continuous load
+
+# Steps to execute the project
+
